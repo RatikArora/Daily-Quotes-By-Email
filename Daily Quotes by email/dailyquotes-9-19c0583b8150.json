@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dailyquotes-9",
+  "private_key_id": "19c0583b8150d6aacdad3df9ff6a1129e48e9182",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1hatZtyoupT1N\n31WINutLtoAYfgEdykhNuoMIe3jqNZml5q93oypoCJ5mFDyeL2LN/E0ri1mQzzL1\nANZdJqN4DUm00S8NKnKbulFtOxz7oqaaabWFXRnhaYlSGp9HZZzov5vtqYQEzXu0\ndkVed30LYitkgjCerPXnMdwmATDz/bVXg9Os5JNLFydxZbSdXBMftTbb6h6m6nUh\nlrGYjaiYIxQ8lpDmCmxWPYcZJDtHmnLXMUr2na0fq4vyKQV7NwcAWG8+PwtlCZW4\nSgDzLJ7GvrC+f+2KTjJ2LhstDGOlvTzmNv9bvbUUIEjdIcqBpfWjYmZwQcNTmtY/\nzndrAQdBAgMBAAECggEAAUHec6fxkWqEtd+PVCrktvTZ9ul3BKO+O9cYEaDIz+78\nfCYglqKdQGSYY8a9u38Cp0B5UJ0VywtrW//0LCegi9wkM73b7oJ58h8QkbIOT6Yj\nEyhaqPSB0ZJRgJ2Fd0kydLiAig0xuFaLxf6IeRi455F30Vm3QF8cciwxzRvWoOcA\nyxYlV5+AudtoZE+BbQ8rXw/VI0NUTjf8BkAK4zZNmYgTR5fycy3UneFxTb+G/ynw\nAtwa7ooYrXXQ541iyEVyo1JKprjTz69Q/RomWY8b1XHJk7+TVbBWPZGRp8ikmFIm\nMaTwddshaiRJ9qV4UhIHD6zkZl0hhPl+ihbgdofAUQKBgQDjy4q6iwDHHIC6YWKt\ncOJWGStC6J/qnyR+53cPHq84LSqZizxE80owghQSZTZhYfj2hXrWfHAQ2CSVdkkM\n6RQoII1V7cnmqGyRp6I8XJ98OMWTysEZGNTVKa4XKeg5LdAxtXwHYXXNnAxn35m6\nk3NCMnH91mew5ZTna8oG5DOk8QKBgQDL/2gPo+XtUqP2KBKvcTlhiNab0FfgL4Ju\no9PGkQZEzfyjoA87In5dwicGjb75sBebGTdmnTKrXlXwmfQDns0YUPDvOLaLH3Hh\nmqPq9c/9IJp2Wp3BpgBUk1k5JGwsdnLnbNt6XdaJqfF9Iu5VNBu3T0TjiiZFjJMg\nBXIiZptHUQKBgQC+RuwXzDqXF1jz1psNk4iMMLPxTM0ft1VN59yMta3ZN+konqR2\nV961zEIl54NYLvU+PtsPxJv7hgBxFIAKl7rtldtZVqpa0H7339Xlo9zYb7eiLy/C\n3foSIKG52ZiQApOwog77P06es+Ws8pq/vaD+P5L2XJz6p5sM//2eago1kQKBgDsB\nKQw9D+hRGvO8K4traHl5pvlyjbhehY+S+1JX6ERGgGijh0RHed2MptUScsat1GYc\nKRYZKeq/YoQxQ484g4IhB09qTAJ5merzW64+Y2aH46WQGElGxpmv9QK+Mju6Fwox\nRlpiggdXjG3xiJZEeC/RUc+uydscCgIdESI6I3fBAoGAQpGigk47p0hlzg5Q2xWB\nIqvdOok2EO6aBaS8VLJlmMZ25bQJIcWDxS6GmmgqmvYK0eDmPfKd0E8oPvwux4yA\nhEoW1CxX1JKsOvavLfmONOEv7o8YqOtzCIMXeOAIWkkt+wpEoSSyhael/IBDcqLL\nd2DQ4+kVG1p6zcho0Dea/wA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ratikarora@dailyquotes-9.iam.gserviceaccount.com",
+  "client_id": "109471846351970048765",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ratikarora%40dailyquotes-9.iam.gserviceaccount.com"
+}
